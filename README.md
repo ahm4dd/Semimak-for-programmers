@@ -8,6 +8,6 @@
 
 Credits:
 
-Original semimak creator: @semilin
+Original semimak creator: @semilin / https://github.com/semilin
 
-Modified by: @ahm4dd
+Modified by: @ahm4dd / https://github.com/ahm4dd
