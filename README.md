@@ -3,7 +3,8 @@
 
 
 
-![image](https://github.com/user-attachments/assets/d600c9bc-273e-4b2a-9931-238cd74159a5)
+![keyboardMap](https://github.com/user-attachments/assets/1ae78700-30a9-4b72-86f6-0d68803065f8)
+
 
 
 Credits:
